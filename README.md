@@ -49,7 +49,7 @@ Make sure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/merneats.git
+git clone https://github.com/sanjay-lgtm/Zomato_Server_Api.git
 cd merneats
 ```
 
